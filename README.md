@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Marcos
+- 👀 I’m interested in html,css,JS
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on interactive websites, advanced projects and app development
+- 📫 How to reach me marcoscastroalves11@gmail.com
+- ⚡ Fun fact: I'm a computer science student, I've been developing websites since 2020
